@@ -1,0 +1,7 @@
+domain_coder_core:
+    resource: "@DomainCoderCoreBundle/Resources/config/routing.yml"
+    prefix:   /api
+
+#app:
+#    resource: @AppBundle/Controller/
+#    type:     annotation

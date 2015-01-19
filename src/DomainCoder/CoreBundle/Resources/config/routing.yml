@@ -1,0 +1,7 @@
+__domain_coder_core_project:
+    type:     rest
+    resource: DomainCoder\CoreBundle\Controller\ProjectController
+
+__domain_coder_core_session:
+    type:     rest
+    resource: DomainCoder\CoreBundle\Controller\SessionController
